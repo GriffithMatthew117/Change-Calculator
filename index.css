@@ -1,0 +1,32 @@
+#change {
+    padding-bottom: 1em;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    font-size: 42pt;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.output {
+    /* font-size: 24pt; */
+}
+
+.card-title {
+    padding: 0.6em;
+    font-size: 24pt;
+    color: rgb(129, 129, 129);
+}
+
+.card-text {
+    display: flex;
+    justify-content: center;
+    font-size: 32pt;
+}
+
+This is a change calculator that works kind of like a cash register. Input the cost of an item, how much money the customer has given you, and the calculator will give you the exact ammount of change that must be given to the customer.
